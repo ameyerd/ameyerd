@@ -1,16 +1,24 @@
-### Hi there 👋
+<p align="center">
+  <br>
+  <samp>
+    Hello World! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="ameyerd.github.io">Amey.</a></b>.
+    <br>I'm a senior Computer Science Undergraduate Student from Denver, CO.<br>
+    My Current Project: <a href="https://github.com/ameyerd/habits">A habits tracker app!</a>
 
-<!--
-**ameyerd/ameyerd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</samp>
+  me when coding
+  <img src="https://c.tenor.com/22kpo3lzTu0AAAAi/sofacha.gif" width="200"/>
 
-Here are some ideas to get you started:
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<details align="center">
+
+<summary> <b> <samp> Light bonfire </samp></b></summary>
+<samp>
+
+<img src="https://c.tenor.com/q9s_XmoedE8AAAAi/piske-usagi.gif" width="200"/>
+
+</samp>
+</details>
+
