@@ -3,7 +3,7 @@
   <samp>
     Hello World! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="ameyerd.github.io">Amey.</a></b>.
     <br>I'm a senior Computer Science Undergraduate Student from Denver, CO.<br>
-    My Current Project: <a href="https://github.com/ameyerd/habits">A habits tracker app!</a>
+    <br>My Current Project: <a href="https://github.com/ameyerd/habits">A habits tracker app!<br>
 
 </samp>
  
@@ -11,8 +11,10 @@
 
 </p>
 
+<details align="center">
 <samp>
-me when coding
+  <b><h2 style="color: #fc6203"> me when &nbsp; coding</h2> </b>
+  
 <img src="https://c.tenor.com/q9s_XmoedE8AAAAi/piske-usagi.gif" width="200"/>
 
 </samp>
