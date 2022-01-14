@@ -13,7 +13,7 @@
 
 <details align="center">
 <samp>
-  <b>me when coding</b>
+  <h5>me when coding</h5>
   
 <img src="https://c.tenor.com/q9s_XmoedE8AAAAi/piske-usagi.gif" width="200"/>
 
