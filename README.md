@@ -6,17 +6,13 @@
     My Current Project: <a href="https://github.com/ameyerd/habits">A habits tracker app!</a>
 
 </samp>
-  me when coding
+ 
   <img src="https://c.tenor.com/22kpo3lzTu0AAAAi/sofacha.gif" width="200"/>
 
 </p>
 
-
-<details align="center">
-
-<summary> <b> <samp> Light bonfire </samp></b></summary>
 <samp>
-
+me when coding
 <img src="https://c.tenor.com/q9s_XmoedE8AAAAi/piske-usagi.gif" width="200"/>
 
 </samp>
